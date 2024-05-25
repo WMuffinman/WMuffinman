@@ -1,7 +1,7 @@
  [![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)](https://damdev)
 <h1 align="center">Hi 👋, I'm Wayne Chirikure</h1>
 <h3 align="center">A passionate frontend and backed developer currently based in South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/12609824/file/original-0ebf1e6c9a64bfe1510cf8d72de99185.gif">
 
 - 🌱 I’m currently learning **Cloud Computing**
 
